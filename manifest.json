@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Scam Block",
+    "description": "Redirects Scam websites To Their Proper Counterparts",
+    "version": "1.0.0",
+    "permissions": [
+        "scripting",
+        "tabs"
+    ],
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
+    ],
+    "background": {
+        "service_worker": "Background.js"
+    }
+}

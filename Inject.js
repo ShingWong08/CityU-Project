@@ -1,0 +1,1 @@
+window.location.replace("https://1.1.1.1");
