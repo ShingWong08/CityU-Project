@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@100;200;300;400;500;600;700;800;900&family=Noto+Serif+HK:wght@200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    color: white;
+    font-family: "Poppins", "Noto Sans HK";
+    background-color: darkred;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+button {
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    cursor: pointer;
+    transition: all .3s ease;
+    margin: 0 10px;
+}
+
+
+button:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+}
+
+#Safe {
+    background-color: royalblue;
+}
+
+#Correct {
+    background-color: seagreen;
+}
+
+#Continue {
+    background-color: orange;
+}
