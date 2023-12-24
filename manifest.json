@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Scam Block",
+    "name": "RedirectGuard",
     "description": "Redirects Scam websites To Their Proper Counterparts",
     "version": "1.0.1",
     "permissions": [
