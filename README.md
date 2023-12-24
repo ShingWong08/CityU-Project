@@ -2,41 +2,37 @@
 
 ## Introduction
 
-Welcome to RedirectGuard, your guardian against scam websites! This Chrome extension is designed to enhance your online security by automatically redirecting you from potentially harmful or scam websites to their legitimate counterparts. We understand the prevalence of phishing attempts and deceptive URLs, and RedirectGuard is here to provide an additional layer of protection.
+Welcome to RedirectGuard, a concept designed to revolutionize your online security. Our vision for this Chrome extension is to incorporate advanced AI models or integrate the VirusTotal API to dynamically assess the security status of websites in real-time. By doing so, we aim to provide you with an intelligent shield against potential scams and phishing attempts.
 
-## How It Works
+## How the Future Version Will Work
 
-### 1. Real-Time Scam Detection
+### 1. AI-Powered Scam Detection
 
-RedirectGuard employs advanced algorithms to analyze the URLs you visit in real-time. It identifies potential scam websites by comparing them to a comprehensive database of known scams and phishing domains.
+In the envisioned version, RedirectGuard will harness the power of artificial intelligence to analyze URLs dynamically. By training a sophisticated AI model, we aim to detect and identify potential scam websites based on evolving patterns and emerging threats.
 
-### 2. Automatic Redirection
+### 2. VirusTotal Integration
 
-Once a potential scam website is detected, RedirectGuard takes immediate action by automatically redirecting you to the correct and secure version of the website. For example, if you accidentally type "go0gle.com," RedirectGuard will swiftly redirect you to the authentic "google.com" to ensure a safe browsing experience.
+Alternatively, we are exploring the integration of the VirusTotal API, a robust platform that aggregates information from multiple antivirus engines and website scanners. This approach will allow RedirectGuard to query the API for the security status of the websites you visit, ensuring a comprehensive and up-to-date threat assessment.
 
-### 3. User-Friendly Experience
+### 3. Seamless User Experience
 
-Our Chrome extension operates seamlessly in the background, requiring no manual intervention from you. You can browse the web with confidence, knowing that RedirectGuard is actively working to keep you protected from deceptive websites.
+Our goal is to maintain a seamless user experience, where the extension operates intelligently in the background. Whether using AI algorithms or leveraging the VirusTotal API, RedirectGuard will automatically redirect you to the secure version of the website, ensuring a safe and smooth browsing experience.
 
-## Installation
+## The Road Ahead
 
-1. **Download Extension:**
-   - Simply download the RedirectGuard Chrome extension from the Chrome Web Store.
-   - [Link to Chrome Web Store - RedirectGuard](#)
+1. **AI Training and Development:**
+   - We are actively researching and developing AI models tailored for scam detection, with the aim of providing a proactive defense against evolving online threats.
 
-2. **Install Extension:**
-   - Click on the extension icon in the Chrome toolbar.
-   - Follow the on-screen instructions to install RedirectGuard.
+2. **VirusTotal Integration:**
+   - Exploring integration possibilities with the VirusTotal API to fetch real-time security assessments for websites.
 
-3. **Enjoy Secure Browsing:**
-   - Once installed, RedirectGuard will start working automatically, safeguarding your online experience.
+3. **User Feedback:**
+   - We encourage users to provide feedback on false positives or any issues encountered, helping us refine and improve RedirectGuard continuously.
 
 ## Privacy and Security
 
-We take your privacy seriously. RedirectGuard operates locally on your device and does not store any sensitive information. Your browsing data remains secure and confidential.
+Our commitment to your privacy remains paramount. As we progress with this concept, we ensure that all security assessments are conducted locally on your device, with no sensitive information stored or transmitted.
 
-## Help Us Improve
+## Join Us on the Journey
 
-If you come across any false positives or issues, please report them through the extension. Your feedback is invaluable in enhancing RedirectGuard's effectiveness.
-
-Stay safe online with RedirectGuard – your trusted ally against scam websites!
+Stay tuned as RedirectGuard evolves into a cutting-edge Chrome extension, leveraging AI or the VirusTotal API to enhance your online security. Together, we'll create a safer digital space for everyone.
