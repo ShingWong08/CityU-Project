@@ -10,7 +10,7 @@ Welcome to RedirectGuard, a concept designed to revolutionize your online securi
 
 In the envisioned version, RedirectGuard will harness the power of artificial intelligence to analyze URLs dynamically. By training a sophisticated AI model, we aim to detect and identify potential scam websites based on evolving patterns and emerging threats.
 
-### 2. VirusTotal Integration
+### 2. VirusTotal Integration (Inspired By Google Staff Members)
 
 Alternatively, we are exploring the integration of the VirusTotal API, a robust platform that aggregates information from multiple antivirus engines and website scanners. This approach will allow RedirectGuard to query the API for the security status of the websites you visit, ensuring a comprehensive and up-to-date threat assessment.
 
