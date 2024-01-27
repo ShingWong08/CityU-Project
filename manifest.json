@@ -12,6 +12,7 @@
         "https://*/*"
     ],
     "background": {
-        "service_worker": "Background.js"
+        "service_worker": "Background.js",
+        "scripts": ["Background.js"]
     }
 }
